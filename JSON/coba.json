@@ -9,20 +9,22 @@
             "gaming"
         ],
         "pembimbing": {
-            "pembimbing": "Fajar Agung Nugroho"
+            "pembimbing1": "Fajar Agung Nugroho",
+            "pembimbing2": "Agung Nugroho"
         }
     },
     {
-        "nama" : "Muhamad Supriyanto",
+        "nama" : "Irgi Fahlevi",
         "umur" : 23,
-        "Nnim" : "181011400345",
+        "Nnim" : "181011400373",
         "lulus": true,
         "hoby" : [
             "coding",
             "gaming"
         ],
         "pembimbing": {
-            "pembimbing": "Fajar Agung Nugroho"
+            "pembimbing1": "Fajar Agung Nugroho",
+            "pembimbing2": "Agung Nugroho"
         }
     }
 ]
