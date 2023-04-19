@@ -1,0 +1,28 @@
+[
+    {
+        "nama" : "Muhamad Supriyanto",
+        "umur" : 23,
+        "Nnim" : "181011400345",
+        "lulus": true,
+        "hoby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing": "Fajar Agung Nugroho"
+        }
+    },
+    {
+        "nama" : "Muhamad Supriyanto",
+        "umur" : 23,
+        "Nnim" : "181011400345",
+        "lulus": true,
+        "hoby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing": "Fajar Agung Nugroho"
+        }
+    }
+]
